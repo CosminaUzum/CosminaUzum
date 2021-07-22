@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CosminaUzum
-- 👀 I’m interested in Web Design, Frontend Development
-- 🌱 I’m currently learning JavaScript, HTML, CSS3
+- 👀 I’m interested in Frontend Development,Web Design
+- 🌱 I’m currently learning JavaScript, HTML, CSS3, ReactJs, NodeJs
 - 📫 How to reach me https://cosminauzum.com/
 
 <!---
